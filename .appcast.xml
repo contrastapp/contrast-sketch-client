@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch-client/releases/download/v5.0.0/contrast.sketchplugin.zip" sparkle:version="5.0.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch-client/releases/download/v4.2.4/contrast.sketchplugin.zip" sparkle:version="4.2.4"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch-client/releases/download/v4.2.3/contrast.sketchplugin.zip" sparkle:version="4.2.3"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch-client/releases/download/v4.2.2/contrast.sketchplugin.zip" sparkle:version="4.2.2"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch-client/releases/download/v4.2.1/contrast.sketchplugin.zip" sparkle:version="4.2.1"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch/releases/download/v4.2.0/contrast.sketchplugin.zip" sparkle:version="4.2.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch/releases/download/v4.0.0/pixel-perfect.sketchplugin.zip" sparkle:version="4.0.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch/releases/download/v3.0.0/pixel-perfect.sketchplugin.zip" sparkle:version="3.0.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch/releases/download/v2.0.0/pixel-perfect.sketchplugin.zip" sparkle:version="2.0.0"/>
+    </item>
+    <item>
+      <enclosure url="https://github.com/toyboxsystems/contrast-sketch/releases/download/v1.0.0/pixel-perfect.sketchplugin.zip" sparkle:version="1.0.0"/>
+    </item>
+  </channel>
+</rss>
